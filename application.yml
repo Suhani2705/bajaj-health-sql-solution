@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: bajaj-health-sql-solution
+logging:
+  level:
+    root: INFO
