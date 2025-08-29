@@ -22,9 +22,9 @@ public class WebhookService implements CommandLineRunner {
         System.out.println("Bajaj SQL Challenge -Question 2");
 
         Map<String, String> requestBody = new HashMap<>();
-        requestBody.put("name", "John Doe");       
+        requestBody.put("name", "Suhani Jain A");       
         requestBody.put("regNo", "22BAI1456");     
-        requestBody.put("email", "john@example.com"); 
+        requestBody.put("email", "suhanijain.a2022@vitstudent.ac.in"); 
 
         HttpHeaders headers = new HttpHeaders();
         headers.setContentType(MediaType.APPLICATION_JSON);
